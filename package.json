@@ -1,0 +1,44 @@
+{
+  "name": "stone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "hudemu",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "cron": "^1.3.0",
+    "esm": "^3.0.14",
+    "fs-extra": "^5.0.0",
+    "jsonwebtoken": "^8.2.1",
+    "koa": "^2.5.0",
+    "koa-body": "^2.5.0",
+    "koa-compress": "^2.0.0",
+    "koa-helmet": "^4.0.0",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.8.1",
+    "koa-static": "^4.0.2",
+    "koa-views": "^6.1.4",
+    "lodash": "^4.17.5",
+    "mongoose": "^5.0.12",
+    "sequelize": "^4.37.5",
+    "winston": "^3.0.0-rc4",
+    "winston-daily-rotate-file": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "description": "basic web framework boilerplate with koa",
+  "repository": {
+    "type": "git",
+    "url": "http://202.123.106.102:25223/bitof/stone.git"
+  },
+  "keywords": [
+    "koa",
+    "boilerplate",
+    "jwt"
+  ]
+}
