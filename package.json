@@ -31,10 +31,10 @@
   "devDependencies": {
     "nodemon": "^1.17.3"
   },
-  "description": "basic web framework boilerplate with koa",
+  "description": "basic web app boilerplate based on koa",
   "repository": {
     "type": "git",
-    "url": "http://202.123.106.102:25223/bitof/stone.git"
+    "url": "https://github.com/hudemu/stone.git"
   },
   "keywords": [
     "koa",
