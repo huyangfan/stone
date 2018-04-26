@@ -1,3 +1,3 @@
 export default {
-    isDev: true,
+    env: 'dev'
 }
