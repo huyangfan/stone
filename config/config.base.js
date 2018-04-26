@@ -32,7 +32,7 @@ export default {
         renew: false, /** (boolean) renew session when session is nearly expired, so we can always keep user logged in. (default is false)*/
     },
     // mysql:{
-    //     url: 'mysql://locahost:27017/stone'
+    //     url: 'mysql://locahost:3306/stone'
     // },
 }
 
